@@ -3,7 +3,7 @@ ALS method is a form of matrix factorization that deals with implicit feedback, 
 
 Alternating Least Square (ALS) with algorithm
 
-1: Initialize V with random values between 0 and 1
+1. Initialize V with random values between 0 and 1
 
 2. Hold V constants, and solve U by minimizing the objective function
 
